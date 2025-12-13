@@ -1,1 +1,1 @@
-# # Modeling Tsunami Potential From Global Seismic Patterns in Earthquakes
+# Modeling Tsunami Potential From Global Seismic Patterns in Earthquakes
