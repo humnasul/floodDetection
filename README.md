@@ -1,1 +1,1 @@
-# CS559 - Fundamentals of ML - Final Project
+# Modeling Tsunami Potential From Global Seismic Patterns in Earthquakes
